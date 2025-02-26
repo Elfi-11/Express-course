@@ -1,0 +1,21 @@
+Créer une api, mongo db avec son orm.
+Express, js (api), mongous (orm), mongo db bdd
+
+
+
+## Express :
+
+Node JS permet de faire du JS en backend, express est basé dessus (micro-framework).
+
+créer le projet npm init -y
+
+run express à l'aide de node :  node server.js
+
+package nécessaire : npm install express dotenv mongoose colors
+
+package-lock.json : permet d'install les dépendances des dépendances
+
+Créer deux scripts : "start" "node server.js",
+    "server": "node --watch server.js" (permet d'écouter les événements du serveur)
+
+
